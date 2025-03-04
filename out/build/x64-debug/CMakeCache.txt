@@ -437,13 +437,13 @@ PKG_CONFIG_ARGN:STRING=
 PKG_CONFIG_EXECUTABLE:FILEPATH=PKG_CONFIG_EXECUTABLE-NOTFOUND
 
 //Value Computed by CMake
-PortAudio_BINARY_DIR:STATIC=D:/ACE Japan/HITACHI/AudioProcessing/out/build/x64-debug/build_portaudio
+PortAudio_BINARY_DIR:STATIC=D:/ACE Japan/HITACHI/AudioProcessing/out/build/x64-debug/portaudio
 
 //Value Computed by CMake
 PortAudio_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-PortAudio_SOURCE_DIR:STATIC=C:/Projects/portaudio
+PortAudio_SOURCE_DIR:STATIC=D:/ACE Japan/HITACHI/AudioProcessing/portaudio
 
 //Name of the computer/site where compile is being run
 SITE:STRING=HHWTA
@@ -485,13 +485,13 @@ Vorbis_Vorbis_INCLUDE_DIR:PATH=Vorbis_Vorbis_INCLUDE_DIR-NOTFOUND
 Vorbis_Vorbis_LIBRARY:FILEPATH=Vorbis_Vorbis_LIBRARY-NOTFOUND
 
 //Value Computed by CMake
-libsndfile_BINARY_DIR:STATIC=D:/ACE Japan/HITACHI/AudioProcessing/out/build/x64-debug/build_libsndfile
+libsndfile_BINARY_DIR:STATIC=D:/ACE Japan/HITACHI/AudioProcessing/out/build/x64-debug/libsndfile
 
 //Value Computed by CMake
 libsndfile_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-libsndfile_SOURCE_DIR:STATIC=C:/Projects/libsndfile
+libsndfile_SOURCE_DIR:STATIC=D:/ACE Japan/HITACHI/AudioProcessing/libsndfile
 
 //Path to a file.
 mpg123_INCLUDE_DIR:PATH=mpg123_INCLUDE_DIR-NOTFOUND

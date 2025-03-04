@@ -34,8 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/ACE Japan/HITACHI/AudioProcessing/out/build/x64-debug/build_portaudio/cmake_install.cmake")
-  include("D:/ACE Japan/HITACHI/AudioProcessing/out/build/x64-debug/build_libsndfile/cmake_install.cmake")
+  include("D:/ACE Japan/HITACHI/AudioProcessing/out/build/x64-debug/portaudio/cmake_install.cmake")
+  include("D:/ACE Japan/HITACHI/AudioProcessing/out/build/x64-debug/libsndfile/cmake_install.cmake")
 
 endif()
 
